@@ -1,0 +1,4 @@
+[SQL Anywhere 16]
+Description=SQL Anywhere ODBC Driver v 16
+Driver=/opt/sqlanywhere16/lib64/libdbodbc16_r.so
+Setup=/opt/sqlanywhere16/lib64/libdbodbc16_r.so
